@@ -1,14 +1,10 @@
-# 与软件开发相关的文章推荐
-
-## 推荐文章/网站链接
+## Recommended articles/links to websites
 - [How Git Works](https://git-scm.com/book/en/v2)  
-  _作者：Scott Chacon & Ben Straub_  
-  **描述：** 这是一篇非常详细的文章，涵盖了 Git 的工作原理，从基本的版本控制到高级操作。通过阅读它，你可以深入理解 Git 的内部结构，提升对 Git 的掌控能力。
-
+** Description: ** This is a very detailed article that covers how Git works, from basic version control to advanced operations. By reading it, you can gain a deeper understanding of the internal structure of Git and improve your ability to control Git.
+  
 - [Clean Code by Robert C. Martin](https://cleancoders.com/)  
-  _作者：Robert C. Martin_  
-  **描述：** 这本书专注于写出可维护代码的技巧，尤其适合想提升编程质量的开发者。文章强调了命名、注释和代码结构的重要性，对团队协作中的代码标准化尤为有帮助。
+** Description: ** This book focuses on the techniques of writing maintainable code, especially for developers who want to improve the quality of their programming. The article emphasizes the importance of naming, comments, and code structure, especially for code standardization in team collaboration.
 
-## 为什么这些内容有趣
-我认为这些内容有趣是因为它们可以帮助开发者深入了解技术的基础和最佳实践。同时，它们也提供了如何撰写优雅代码的实用建议，对初学者和资深开发者都非常有价值。
 
+## Why choose these articles?
+These are interesting because they give developers insight into the basics and best practices of the technology. At the same time, they also provide practical advice on how to write elegant code, which is very valuable for beginners and experienced developers alike.
